@@ -1,4 +1,4 @@
-# Sudoku Validator & Solver
+# Sudoku Validator & Solver - https://suduko-rz14.onrender.com
 
 Validate a filled 9×9 Sudoku grid and solve unfilled cells using the **Backtracking** algorithm.
 
