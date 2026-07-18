@@ -1,0 +1,25 @@
+{
+  "name": "sudoku-validator-solver",
+  "version": "1.0.0",
+  "description": "Validate a 9x9 Sudoku grid and solve unfilled cells using the Backtracking algorithm.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "sudoku",
+    "backtracking",
+    "2d-arrays",
+    "validator",
+    "solver"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
