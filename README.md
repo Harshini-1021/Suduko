@@ -71,3 +71,8 @@ Covers: grid shape validation, conflict detection in rows/columns/boxes, `isSafe
 ## License
 
 MIT
+## Java version
+`Sudoku.java` is a console-based Java port of the validator and solver.
+
+javac Sudoku.java
+java Sudoku
